@@ -1,3 +1,9 @@
+html, body{
+  overflow-x: hidden;
+}
+body{
+  width:100%;
+}
 .fa {
     text-align: center;
     text-decoration: none;
