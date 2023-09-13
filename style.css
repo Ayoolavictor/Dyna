@@ -27,9 +27,7 @@ body{
  ul{
   list-style-type: none;
  }
- @media screen and (max-width:575.98px){
-  .about-img{height: 270px;
 
-  }
-  
- }
+.about-img{height: 270px;}
+
+ 
